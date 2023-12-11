@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-18187
-Fork on GitHub
-5366
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Ilie Petru Alexandru</h1>
 <h3 align="center">Passionate Computer Science graduate adept in Java, specializing in web and desktop application development, alongside a flair for IoT projects. Proficient in navigating complex environments, I showcase versatility with cutting-edge technologies like Spring Boot, Docker, Kubernetes, and cloud platforms such as OpenStack and AWS. Agile enthusiast with Scrum Master experience, I thrive in collaborative settings. My resilient mindset and growth-oriented approach are evident in my success in diverse programming competitions. Fueled by curiosity, I constantly challenge myself with cutting-edge topics, exemplified by my personal automatic drone project. Explore my GitHub to witness a journey of innovation, problem-solving, and a love for pushing technological boundaries.</h3>
 
