@@ -1,6 +1,8 @@
+<style type="text/css">
 .no-underline {
     text-decoration: none;
 }
+</style>
 
 <h1 align="center">Hi 👋, I'm Ilie Petru Alexandru</h1>
 
