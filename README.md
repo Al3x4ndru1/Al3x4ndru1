@@ -1,9 +1,10 @@
+<head>
 <style type="text/css">
 .no-underline {
     text-decoration: none;
 }
 </style>
-
+</head>
 <h1 align="center">Hi 👋, I'm Ilie Petru Alexandru</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=al3x4ndru1&label=Profile%20views&color=0e75b6&style=flat" alt="al3x4ndru1" /> </p>
