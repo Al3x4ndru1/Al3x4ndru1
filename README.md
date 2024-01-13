@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=al3x4ndru1" alt="al3x4ndru1" /></a> </p>
 
-- 🌱 I’m currently learning **Rust, Networking and Reeact**
+- 🌱 I’m currently learning **Rust, Networking and React**
 
 - 💬 Ask me about **Java, Software Engineering, IoT, Games**
 
