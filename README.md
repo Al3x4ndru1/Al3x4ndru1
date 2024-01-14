@@ -66,7 +66,7 @@
 
 
 
-<div style="display: flex; height: 300px; align-items: center; justify-content: center;">
+<div style="display: flex; height: 300px;">
   <!-- Left image centered vertically -->
   <div>
     <img vertical-align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al3x4ndru1&show_icons=true&locale=en&hide=javascript,html,Cuda,Cython,CSS,QML" alt="Left Image" style="max-height: 100%; max-width: 100%; display: block; margin: auto;" />
