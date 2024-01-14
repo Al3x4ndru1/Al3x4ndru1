@@ -68,18 +68,18 @@
 
 <div style="display: flex; height: 300px; align-items: center; justify-content: center;">
   <!-- Left image centered vertically -->
-  <div style="flex: 1;">
-     <img vertical-align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al3x4ndru1&show_icons=true&locale=en&hide=javascript,html,Cuda,Cython,CSS,QML" alt="al3x4ndru1" style="max-height: 100%; max-width: 100%; display: block; margin: auto;" />
+  <div>
+    <img vertical-align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al3x4ndru1&show_icons=true&locale=en&hide=javascript,html,Cuda,Cython,CSS,QML" alt="Left Image" style="max-height: 100%; max-width: 100%; display: block; margin: auto;" />
   </div>
-  <!-- Container for top and bottom centered images -->
-  <div style="flex: 1; display: flex; flex-direction: column; align-items: center; position: relative;">
+  <!-- Container for center images -->
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <!-- Top centered image -->
-    <div style="order: -1;">
+    <div>
       <img src="https://github-readme-stats.vercel.app/api?username=al3x4ndru1&show_icons=true&locale=en" alt="Top Image" style="max-height: 100%; max-width: 100%; display: block; margin: auto;" />
     </div>
     <!-- Bottom centered image -->
     <div>
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=al3x4ndru1" alt="Bottom Image" style="max-height: 100%; max-width: 100%; display: block; margin: auto;" />
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=al3x4ndru1" alt="Bottom Image" style="max-height: 100%; max-width: 100%; display: block; margin: auto;" />
     </div>
   </div>
 </div>
