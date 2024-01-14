@@ -66,20 +66,20 @@
 
 
 
-<div style="display: flex; height: 300px; align-items: center;">
+<div style="display: flex; height: 300px; align-items: center; justify-content: center;">
   <!-- Left image centered vertically -->
   <div style="flex: 1;">
-   <img vertical-align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al3x4ndru1&show_icons=true&locale=en&hide=javascript,html,Cuda,Cython,CSS,QML" alt="al3x4ndru1" style="max-height: 100%; max-width: 100%; display: block; margin: auto;" />
+     <img vertical-align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al3x4ndru1&show_icons=true&locale=en&hide=javascript,html,Cuda,Cython,CSS,QML" alt="al3x4ndru1" style="max-height: 100%; max-width: 100%; display: block; margin: auto;" />
   </div>
   <!-- Container for top and bottom centered images -->
-  <div style="flex: 1; position: relative; text-align: center;">
+  <div style="flex: 1; display: flex; flex-direction: column; align-items: center; position: relative;">
     <!-- Top centered image -->
-    <div style="position: absolute; top: 0; left: 50%; transform: translateX(-50%);">
-     <img src="https://github-readme-stats.vercel.app/api?username=al3x4ndru1&show_icons=true&locale=en" style="max-height: 100%; max-width: 100%; display: block; margin: auto;" alt="al3x4ndru1" />
+    <div style="order: -1;">
+      <img src="https://github-readme-stats.vercel.app/api?username=al3x4ndru1&show_icons=true&locale=en" alt="Top Image" style="max-height: 100%; max-width: 100%; display: block; margin: auto;" />
     </div>
     <!-- Bottom centered image -->
-    <div style="position: absolute; bottom: 0; left: 50%; transform: translateX(-50%);">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=al3x4ndru1" alt="al3x4ndru1" style="max-height: 100%; max-width: 100%; display: block; margin: auto;"/>
+    <div>
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=al3x4ndru1" alt="Bottom Image" style="max-height: 100%; max-width: 100%; display: block; margin: auto;" />
     </div>
   </div>
 </div>
