@@ -65,7 +65,7 @@
 
 
 
-<div align="center">
+<div>
     <div style="float: left; width: 50%;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=al3x4ndru1&show_icons=true&locale=en&hide=javascript,html,Cuda,Cython,CSS,QML" alt="al3x4ndru1" style="max-width: 100%; max-height: 100%; display: block; margin: auto;" />
     </div>
