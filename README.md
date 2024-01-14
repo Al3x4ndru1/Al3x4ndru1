@@ -51,9 +51,10 @@
 <table>
   <tr>
     <td valign="middle" width="50%">
-     <img align="left" vertical-align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al3x4ndru1&show_icons=true&locale=en&hide=javascript,html,Cuda,Cython,CSS,QML" alt="al3x4ndru1" style="max-height: 100%; max-width: 100%; display: block; margin: auto;" />
+     <img vertical-align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al3x4ndru1&show_icons=true&locale=en&hide=javascript,html,Cuda,Cython,CSS,QML" alt="al3x4ndru1" style="max-height: 100%; max-width: 100%; display: block; margin: auto;" />
     </td>
     <td align="center">
+     <img vertical-align="super" src="https://github-readme-stats.vercel.app/api?username=al3x4ndru1&show_icons=true&locale=en" alt="al3x4ndru1" />
       <img src="center-image-url.jpg" alt="Center Image" style="max-height: 100%; max-width: 100%; display: block; margin: auto;" />
     </td>
   </tr>
