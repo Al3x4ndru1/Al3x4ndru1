@@ -50,3 +50,16 @@
     </td>
   </tr>
 </table>
+
+
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div style="flex: 1;">
+   <img vertical-align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al3x4ndru1&show_icons=true&locale=en&hide=javascript,html,Cuda,Cython,CSS,QML" alt="al3x4ndru1" style="max-width: 100%; height: auto;" />
+
+  </div>
+  <div style="flex: 1; text-align: center;">
+     <img src="https://github-readme-stats.vercel.app/api?username=al3x4ndru1&show_icons=true&locale=en" style="max-width: 100%; height: auto;" alt="al3x4ndru1" />
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=al3x4ndru1" alt="al3x4ndru1" style="max-width: 100%; height: auto;"/>
+    
+  </div>
+</div>
