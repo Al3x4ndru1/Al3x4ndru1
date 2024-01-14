@@ -70,7 +70,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=al3x4ndru1&show_icons=true&locale=en&hide=javascript,html,Cuda,Cython,CSS,QML" alt="al3x4ndru1" style="max-width: 100%; max-height: 100%; display: block; margin: auto;" />
     </div>
     <div style="flex: 1; display: flex; flex-direction: column; align-items: center;">
-        <img src="https://github-readme-stats.vercel.app/api?username=al3x4ndru1&show_icons=true&locale=en" alt="al3x4ndru1" style="max-width: 80%; display: block; margin: auto;" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=al3x4ndru1" alt="al3x4ndru1" style="max-width: 80%; display: block; margin: auto;" />
+        <img src="https://github-readme-stats.vercel.app/api?username=al3x4ndru1&show_icons=true&locale=en" alt="al3x4ndru1" style="max-width: 50%; display: block; margin: auto;" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=al3x4ndru1" alt="al3x4ndru1" style="max-width: 50%; display: block; margin: auto;" />
     </div>
 </div>
