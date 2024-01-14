@@ -41,13 +41,13 @@
 
 <table style="border: none; width: 100%;">
     <tr>
-      <td width="60%" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=al3x4ndru1&show_icons=true&locale=en&hide=javascript,html,Cuda,Cython,CSS,QML" alt="al3x4ndru1" style="max-width: 100%; display: block; margin: auto;" />
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=al3x4ndru1&show_icons=true&locale=en" alt="al3x4ndru1" style="max-width: 100%; display: block; margin: auto;" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=al3x4ndru1" alt="al3x4ndru1" style="max-width: 100%; display: block; margin: auto;" />
-      </td>
+        <td style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=al3x4ndru1&show_icons=true&locale=en&hide=javascript,html,Cuda,Cython,CSS,QML" alt="al3x4ndru1" style="max-width: 100%; display: block; " />
+        </td>
+        <td align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=al3x4ndru1&show_icons=true&locale=en" alt="al3x4ndru1" style="max-width: 100%; display: block;" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=al3x4ndru1" alt="al3x4ndru1" style="max-width: 100%; display: block;" />
+        </td>
     </tr>
 </table>
 
