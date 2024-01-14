@@ -41,7 +41,7 @@
 
 <table style="border: none; width: 100%;">
     <tr>
-        <td style="width:50%; border: none;">
+        <td width="60%" style="border: none;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=al3x4ndru1&show_icons=true&locale=en&hide=javascript,html,Cuda,Cython,CSS,QML" alt="al3x4ndru1" style="max-width: 100%; display: block; " />
         </td>
         <td align="center" style="border: none;">
