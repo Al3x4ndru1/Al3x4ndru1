@@ -40,7 +40,7 @@
 
 <p align="left" padding-top: 25px;>&nbsp;<img align="left" vertical-align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al3x4ndru1&show_icons=true&locale=en&hide=javascript,html,Cuda,Cython,CSS,QML" alt="al3x4ndru1" /> </p>
 
-<p align="right">&nbsp; <img align="center" vertical-align="super" src="https://github-readme-stats.vercel.app/api?username=al3x4ndru1&show_icons=true&locale=en" alt="al3x4ndru1" /> </p>
+<p align="center">&nbsp; <img align="center" vertical-align="super" src="https://github-readme-stats.vercel.app/api?username=al3x4ndru1&show_icons=true&locale=en" alt="al3x4ndru1" /> </p>
 
 <p align="left">&nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=al3x4ndru1" alt="al3x4ndru1" /> </p>
 
