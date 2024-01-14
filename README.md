@@ -55,6 +55,4 @@
  <p align="center">&nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=al3x4ndru1" alt="al3x4ndru1" /> </p>
 </div>
 
-<div class="container"> 
-<p align="center">&nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=al3x4ndru1" alt="al3x4ndru1" /> </p>
-</div>
+
