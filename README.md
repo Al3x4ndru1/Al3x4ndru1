@@ -40,10 +40,21 @@
 
 
 <div style="display: flex; justify-content: center; align-items: center; height: 300px;">
- <img align="left" vertical-align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al3x4ndru1&show_icons=true&locale=en&hide=javascript,html,Cuda,Cython,CSS,QML" alt="al3x4ndru1" />
+ 
 </div>
 <p align="center">&nbsp; <img align="center" vertical-align="super" src="https://github-readme-stats.vercel.app/api?username=al3x4ndru1&show_icons=true&locale=en" alt="al3x4ndru1" /> </p>
 
 <div style="display: flex; justify-content: center; align-items: center; height: 300px;">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=al3x4ndru1" alt="al3x4ndru1" />
 </div>
+
+<table>
+  <tr>
+    <td valign="middle" width="50%">
+     <img align="left" vertical-align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al3x4ndru1&show_icons=true&locale=en&hide=javascript,html,Cuda,Cython,CSS,QML" alt="al3x4ndru1" style="max-height: 100%; max-width: 100%; display: block; margin: auto;" />
+    </td>
+    <td align="center">
+      <img src="center-image-url.jpg" alt="Center Image" style="max-height: 100%; max-width: 100%; display: block; margin: auto;" />
+    </td>
+  </tr>
+</table>
