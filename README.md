@@ -47,18 +47,5 @@
   <div style="flex: 1; text-align: center;">
      <img src="https://github-readme-stats.vercel.app/api?username=al3x4ndru1&show_icons=true&locale=en" style="max-width: 100%; height: auto;" alt="al3x4ndru1" />
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=al3x4ndru1" alt="al3x4ndru1" style="max-width: 100%; height: auto;"/>
-    
   </div>
-</div>
-
-
-
-<div>
-<div align="left" style="float: left; width: 50%;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=al3x4ndru1&show_icons=true&locale=en&hide=javascript,html,Cuda,Cython,CSS,QML" alt="al3x4ndru1" style="max-width: 100%; max-height: 100%; display: block; margin: auto;" />
-    </div>
-    <div align="center" style="float: left; width: 50%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=al3x4ndru1&show_icons=true&locale=en" alt="al3x4ndru1" style="max-width: 100%; display: block; margin: auto;" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=al3x4ndru1" alt="al3x4ndru1" style="max-width: 100%; display: block; margin: auto;" />
-    </div>
-</div>  
+</div> 
